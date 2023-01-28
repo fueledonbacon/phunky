@@ -1,0 +1,29 @@
+html {
+  font-weight: 400;
+  overflow: hidden auto;
+  scroll-behavior: smooth;
+}
+.html--use-modal {
+  overflow-y: hidden;
+}
+
+body {
+  overflow-x: hidden;
+  color: white;
+  background-color: #000000;
+  font-family: 'Poppins', sans-serif;
+}
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
+
+.card-shadow {
+  box-shadow: 0 10px 32px #0004;
+}

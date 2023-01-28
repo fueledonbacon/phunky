@@ -1,0 +1,23 @@
+[
+  {
+    "title": "About",
+    "to": { "name": "About" }
+  },
+  {
+    "title": "Phunky Shop",
+    "to": { "name": "Home" }
+  },
+  {
+    "title": "Stake",
+    "to": { "name": "Stake" }
+  },
+  {
+    "title": "FAQS",
+    "to": { "name": "FAQ" }
+  },
+  {
+    "title": "Privacy Policy",
+    "to": { "name": "FAQ" },
+    "hideOnHeader": true
+  }
+]
